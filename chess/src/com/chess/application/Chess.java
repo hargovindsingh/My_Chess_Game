@@ -29,7 +29,7 @@ public class Chess extends Application {
 				stage.setMinHeight(669);
 			}
 			stage.setScene(scene); 
-			stage.setTitle("Chess v0.8");
+			stage.setTitle("Chess v1.0");
 			controller = loadFrame.getController();
 			controller.setStage(stage);
 			controller.setMainAccess(this);
