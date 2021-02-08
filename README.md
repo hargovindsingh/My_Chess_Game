@@ -14,7 +14,8 @@ Export Format supported: FEN or PGN.
 1. [About the game](#about-the-game)  
 	1.1 [Before you start the game](#before-you-start-the-game)  
 		1.2.1 [The AI opponent](#the-ai-opponent)  
-		1.2.2 [Chess notations](#chess-notations)  
+		1.2.2 [Chess notations](#chess-notations) 
+		1.2.3 [The chess Pieces](#The Chess Pieces)
 2. [How to get it](#how-to-get-it)  
 	2.1 [How to import it to Eclipse IDE](#how-to-import-it-to-eclipse-ide)   
 3. [How to run it](#how-to-run-it)  
@@ -42,7 +43,7 @@ There are several reasons in chess, however, that makes it obvious as to why it 
 
 Why is that? If there is a problem in a game or a dispute, the arbiter, who is there to help you in these cases, must be aware of the progression of the game. It makes it easier for any arbiter to look at a scoresheet, which is clear evidence than to rely on the memory of the players.
 
-####The Chess Pieces
+#### The Chess Pieces
 Chess notation also uses abbreviations for each soldier in the army, using capitalized letters.
 
 King       = K
