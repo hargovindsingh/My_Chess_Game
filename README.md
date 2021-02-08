@@ -15,7 +15,7 @@ Export Format supported: FEN or PGN.
 	1.1 [Before you start the game](#before-you-start-the-game)  
 		1.2.1 [The AI opponent](#the-ai-opponent)  
 		1.2.2 [Chess notations](#chess-notations) 
-		1.2.3 [The chess Pieces](#The Chess Pieces)
+		1.2.3 [The Chess Pieces](#the-chess-pieces)
 2. [How to get it](#how-to-get-it)  
 	2.1 [How to import it to Eclipse IDE](#how-to-import-it-to-eclipse-ide)   
 3. [How to run it](#how-to-run-it)  
