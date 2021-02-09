@@ -9,25 +9,6 @@ import com.chess.root.moves.Move;
 
 public class OpeningLibrary {
 	
-	// https://www.premiumschach.de/schachecke/eroeffnungsdatenbank3.htm
-	
-	// C50: italian; B20: sicilian defense; C00: french defense; C60: ruy lopez (spanish); D10: slavic defense: C20 napoleon;
-	// D08: queenpawngame; B02: aljechin-defense; A53 old indian, A00: anderssen; C77: spanish anderssen; A07: king fianchetto
-	// B34: sicilian; A02 bird; D00: blackmar-diener-gambit; A51: budapest gambit; B10: caro-kann-defense; D04up; queen-pawn-game;
-	// C64: cordel-defense; C35: cunningham-gambit; E10 queen-pawn-game; B00: owen-defense; D06: queen-gambit; C46: three-jump game;
-	// A10: english; A15: english, vs kingfianchetto; C51: evants-gambit; C31: falkbeer-countergambit; C34: fischer-defense;
-	// C57: preussian attack; B21: sicilian, grand-prix; C53: italian, greco-möller; D70: grünfeld-indian; D31: half-slavic;
-	// D00b: hodgson-attack; A03: dutchman; A80: dutchman-defense; B07: jugoslavian; E00: catalan; A00b: king-fianchetto; 
-	// C30: king-gambit; E60: king-indian; C23: bishop-game; C40: latvian gambit; B32: löwenthal-variant; D06b: marshall-defense
-	// C22: mid-gambit; A56: modern benoni-defense; A40: modern defense; B21b: morra-gambit; B90: Njandorf; E20: Nimozowitsch-Indian;
-	// A01: Nimzowitsch-Larsen-Attack; C15: Nimzowitsch-System; C21: Nordic gambit; B28: O'Kelly-System; A00c: Orang Utang;
-	// A40b: Owen-defense; C10: Paulsen-Variant; B41; Paulsen-Variant, sicilian; C41: Philidor-Defense; B07b: Pirc-Ufimzew-Defense;
-	// C44: Ponziani-Opening; C57b: Preussian Attack; A04: Réti-Opening; B30: Rossolino-Variant; C42: Russian defense;
-	// A00d: Saragossa-opening; B30b: Scottish party; B23: closed sicilian: A20: Sicilian coming; B70: Sicilian dragon;
-	// B21a: Sicilian mid-gambit; A00e: Sleipner-opening; C62: Steinitz-defense; C03: Tarrasch-system; A45: Trompowsky-opening;
-	// B53: Techower-variant; C50a: Hungarian defense; A41: Irregular systems; A00f: Van't Kruys-opening; C47: four-knights-game;
-	// B12: Caro-Kann-defense; A57: Wolga-gambit; A06: Zuckertort-opening; C55: two-knights-game;
-	
 	private static Random random = new Random();
 	
 	private static String[] b00 = {"e4", "b6"};	
